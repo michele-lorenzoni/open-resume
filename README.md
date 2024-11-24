@@ -4,7 +4,7 @@ Strumento di editing di curriculum online di puro front-end con supporto per l'i
 
 ## 编译&运行
 ```shell
-#编译镜像
+#Compilazione dell'immagine
 docker build -t openresume .
 #通过Compose启动
 docker-compose up -d
