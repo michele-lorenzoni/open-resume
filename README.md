@@ -1,8 +1,8 @@
-# open-resume
+# Open Resume Vanced
 
 Strumento di editing di curriculum online di puro front-end con supporto per l'importazione e l'esportazione di configurazioni JSON, l'esportazione di PDF e immagini.
 
-## 编译&运行
+## Compilazione ed esecuzione
 ```shell
 #Compilazione dell'immagine
 docker build -t openresume .
