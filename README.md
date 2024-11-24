@@ -8,7 +8,7 @@ Strumento di editing di curriculum online di puro front-end con supporto per l'i
 docker build -t openresume .
 #通过Compose启动
 docker-compose up -d
-#通过命令启动
+#Avviato dal comando
 docker run --it -name openresume -p 5173:5173 -d openresume
 ```
 
