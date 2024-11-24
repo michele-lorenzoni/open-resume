@@ -27,5 +27,5 @@ docker run --it -name openresume -p 5173:5173 -d openresume
 [模板三](https://open-resume.netlify.app/#/editor/simple-one-page):
 [![xwJDoj.png](https://s1.ax1x.com/2022/10/14/xwJDoj.png)](https://imgse.com/i/xwJDoj)
 
-[模板四](https://open-resume.netlify.app/#/editor/simple-one-page2):
+[Modello IV](https://open-resume.netlify.app/#/editor/simple-one-page2):
 [![xwJBwQ.png](https://s1.ax1x.com/2022/10/14/xwJBwQ.png)](https://imgse.com/i/xwJBwQ)
