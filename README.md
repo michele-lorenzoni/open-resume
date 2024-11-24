@@ -12,7 +12,7 @@ docker-compose up -d
 docker run --it -name openresume -p 5173:5173 -d openresume
 ```
 
-[✍️ 点击开始制作属于你的简历！](https://open-resume.netlify.app)
+[✍️ Cliccate per iniziare a creare il vostro CV!](https://open-resume.netlify.app)
 
 [![xwuVPO.png](https://s1.ax1x.com/2022/10/14/xwuVPO.png)](https://imgse.com/i/xwuVPO)
 
