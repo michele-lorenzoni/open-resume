@@ -1,6 +1,6 @@
 # open-resume
 
-纯前端的在线简历编辑工具，支持导入导出 JSON 配置，导出 PDF 和图片
+Strumento di editing di curriculum online di puro front-end con supporto per l'importazione e l'esportazione di configurazioni JSON, l'esportazione di PDF e immagini.
 
 ## 编译&运行
 ```shell
