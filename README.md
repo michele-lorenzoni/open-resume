@@ -16,7 +16,7 @@ docker run --it -name openresume -p 5173:5173 -d openresume
 
 [![xwuVPO.png](https://s1.ax1x.com/2022/10/14/xwuVPO.png)](https://imgse.com/i/xwuVPO)
 
-目前内置了 4 套简历模板：
+Attualmente sono disponibili 4 modelli di CV integrati:
 
 [Modello I](https://open-resume.netlify.app/#/editor/developer-concise-1)：
 [![xwJyYn.png](https://s1.ax1x.com/2022/10/14/xwJyYn.png)](https://imgse.com/i/xwJyYn)
