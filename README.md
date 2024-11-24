@@ -6,7 +6,7 @@ Strumento di editing di curriculum online di puro front-end con supporto per l'i
 ```shell
 #Compilazione dell'immagine
 docker build -t openresume .
-#通过Compose启动
+#Avviato tramite Compose
 docker-compose up -d
 #Avviato dal comando
 docker run --it -name openresume -p 5173:5173 -d openresume
