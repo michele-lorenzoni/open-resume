@@ -18,13 +18,13 @@ docker run --it -name openresume -p 5173:5173 -d openresume
 
 目前内置了 4 套简历模板：
 
-[模板一](https://open-resume.netlify.app/#/editor/developer-concise-1)：
+[Modello I](https://open-resume.netlify.app/#/editor/developer-concise-1)：
 [![xwJyYn.png](https://s1.ax1x.com/2022/10/14/xwJyYn.png)](https://imgse.com/i/xwJyYn)
 
-[模板二](https://open-resume.netlify.app/#/editor/developer-concise-2)：
+[Modello II](https://open-resume.netlify.app/#/editor/developer-concise-2)：
 [![xwJsFs.png](https://s1.ax1x.com/2022/10/14/xwJsFs.png)](https://imgse.com/i/xwJsFs)
 
-[模板三](https://open-resume.netlify.app/#/editor/simple-one-page):
+[Modello III](https://open-resume.netlify.app/#/editor/simple-one-page):
 [![xwJDoj.png](https://s1.ax1x.com/2022/10/14/xwJDoj.png)](https://imgse.com/i/xwJDoj)
 
 [Modello IV](https://open-resume.netlify.app/#/editor/simple-one-page2):
